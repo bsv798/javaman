@@ -1,0 +1,4 @@
+oracle_jdk8		c:\Program Files\Java\jdk1.8.0_191\
+oracle_jre8             "c:\Program Files\Java\jre1.8.0_191\"
+ibm_jdk8		c:\Work\ibm\WebSphere\AppServer\java\8.0\
+zulu_jdk9		e:\Temp\zulu9.0.0.15 jdk9.0.0 win_x64
